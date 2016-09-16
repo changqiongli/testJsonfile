@@ -2,11 +2,9 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
-	<classpathentry kind="lib" path="E:/JAVA/referenceFile/selenium-java-2.53.1.jar"/>
-	<classpathentry kind="lib" path="E:/JAVA/referenceFile/selenium-java-2.53.1-srcs.jar"/>
-	<classpathentry kind="lib" path="E:/JAVA/referenceFile/selenium-server-standalone-2.53.1.jar"/>
+ 
 	<classpathentry kind="lib" path="E:/JAVA/referenceFile/java-json.jar"/>
-	<classpathentry kind="lib" path="E:/JAVA/referenceFile/junit-4.12.jar"/>
+	 
 	<classpathentry kind="lib" path="E:/JAVA/referenceFile/json-lib.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
